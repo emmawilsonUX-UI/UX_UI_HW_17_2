@@ -76,20 +76,20 @@ footer ul li {
   "bookcases bedroom couches"
   ;
 }
-
+/* Background images not showing up figure out*/
 #bookcases {
   grid-area: bookcases;
-  background-image: url("images\Travel Bug_1.PNG");
+  background-image: url("images/Travel Bug_2.png");
 
 }
 #bedroom {
   grid-area: bedroom;
-  background-image: url("images\CCoTA.PNG");
+  background-image: url("images/CCOTA_2.png");
 }
 
 #couches {
   grid-area: couches;
-  background-image: url("images\PXL_20230731_000057157.jpg");
+  background-image: url("images/NNLM_NEC.png");
 }
 
   .categoryGridArea {
